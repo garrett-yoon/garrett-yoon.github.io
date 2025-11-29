@@ -24,7 +24,7 @@ sections:
         interests: ''
     design:
       spacing:
-        padding: ['20px', '0', '20px', '0']
+        padding: ['10px', '0', '5px', '0']
       # Apply a gradient background
       # Avatar customization
       # avatar:
