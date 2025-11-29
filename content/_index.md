@@ -33,9 +33,11 @@ sections:
     content:
       title: 'Posters'
       # subtitle: ''
-      button:
-        text: Download CV
-        url: uploads/resume.pdf
+      text:
+        links:
+        -name: "RSNA 2024"
+        url: "/uploads/rsna2024soft.pdf"
+
 
      
   #       Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
