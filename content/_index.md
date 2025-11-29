@@ -23,12 +23,8 @@ sections:
         education: ''
         interests: ''
     design:
-      background:
-        gradient_start: "#4f46e5"
-        gradient_end: "#7c3aed"
-        text_color_light: true
       spacing:
-        padding: ["6", "6", "6", "6"]
+        padding: ['20px', '0', '20px', '0']
       # Apply a gradient background
       # Avatar customization
       # avatar:
