@@ -33,7 +33,6 @@ sections:
     content:
       title: 'Posters'
       # subtitle: ''
-      text: |-
         # <a href="/uploads/rsna2024soft.pdf" target="_blank">RSNA Soft Tissue 2024 Educational Exhibit</a>
 
         # <a href="/uploads/asnr2025dvs.pdf" target="_blank">ASNR Dural Venous Sinus Variants 2025 Educational Exhibit</a>
