@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: '3rem'
+  spacing: '2rem'
 
 sections:
   - block: resume-biography-3
@@ -29,11 +29,17 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  # - block: markdown
-  #   content:
-  #     title: '📚 My Research'
-  #     subtitle: ''
-  #     text: |-
+  - block: markdown
+    content:
+      title: 'Posters'
+      # subtitle: ''
+      links:
+        - name: "RSNA 2024"
+          url: "/uploads/rsna2024soft.pdf"
+          icon: "file-text"
+          btn_class: "btn-primary"
+          target: "_blank"
+      
   #       Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
 
   #       I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
@@ -41,13 +47,13 @@ sections:
   #       Please reach out to collaborate 😃
   #   design:
   #     columns: '1'
-  - block: collection
-    id: papers
-    content:
-      title: Posters
-      links:
-        - name: "RSNA 2024"
-          url: "/uploads/rsna2024soft.pdf"
+  # - block: collection
+  #   id: papers
+  #   content:
+  #     title: Posters
+  #     links:
+  #       - name: "RSNA 2024"
+  #         url: "/uploads/rsna2024soft.pdf"
       # button:
       #   text: ASNR 2025 Dural Venous Sinus Variants
       #   url: uploads/asnr2025dvs.pdf
