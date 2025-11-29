@@ -45,12 +45,12 @@ sections:
     id: papers
     content:
       title: Posters
-      button:
-        text: ASNR 2025 Dural Venous Sinus Variants
-        url: uploads/asnr2025dvs.pdf
-      button:
-        text: RSNA 2024 Soft Tissue Findings on CT
-        url: uploads/rsna2024soft.pdf
+      # button:
+      #   text: ASNR 2025 Dural Venous Sinus Variants
+      #   url: uploads/asnr2025dvs.pdf
+      # button:
+      #   text: RSNA 2024 Soft Tissue Findings on CT
+      #   url: uploads/rsna2024soft.pdf
   #   design:
   #     view: article-grid
   #     columns: 2
