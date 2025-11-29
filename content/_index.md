@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: '2rem'
+  spacing: '3rem'
 
 sections:
   - block: resume-biography-3
@@ -33,8 +33,10 @@ sections:
     content:
       title: 'Posters'
       # subtitle: ''
-      <a class="btn btn-primary" href="/uploads/rsna2024soft.pdf" target="_blank">
-  View RSNA 2024 PDF
+      button:
+        text: Download CV
+        url: uploads/resume.pdf
+
 </a>
 
      
