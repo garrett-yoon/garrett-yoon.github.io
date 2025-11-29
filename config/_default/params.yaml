@@ -5,8 +5,9 @@
 
 # Appearance
 appearance:
-  mode: system
-  color: minimal
+  theme_day: minimal
+  theme_night: minimal
+  font: minimal
 
 # SEO
 marketing:
