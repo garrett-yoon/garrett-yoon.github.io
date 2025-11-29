@@ -45,6 +45,9 @@ sections:
     id: papers
     content:
       title: Posters
+      links:
+        - name: "RSNA 2024"
+          url: "/uploads/rsna2024soft.pdf"
       # button:
       #   text: ASNR 2025 Dural Venous Sinus Variants
       #   url: uploads/asnr2025dvs.pdf
