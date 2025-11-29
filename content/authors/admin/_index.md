@@ -61,7 +61,7 @@ education:
     date_start: 2012
     date_end: 2016
     summary: |
-      Masters thesis on predicting urinary tract infection risk.
+      Concentration in Biomedical Engineering.
 
     # button:
     #   text: 'Read Thesis'
