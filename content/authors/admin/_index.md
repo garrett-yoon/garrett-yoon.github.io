@@ -90,7 +90,7 @@ work:
     company_name: Rutgers New Jersey City School
     # company_url: 'https://ai.meta.com/'
     # icon: ''
-    date_start: 2023
+    date_start: 2023-06-01
     date_end: ''
     # summary: |2-
     #   Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
