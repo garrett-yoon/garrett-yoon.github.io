@@ -33,13 +33,11 @@ sections:
     content:
       title: 'Posters'
       # subtitle: ''
-      links:
-        - name: "RSNA 2024"
-          url: "/uploads/rsna2024soft.pdf"
-          icon: "file-text"
-          btn_class: "btn-primary"
-          target: "_blank"
-      
+      <a class="btn btn-primary" href="/uploads/rsna2024soft.pdf" target="_blank">
+  View RSNA 2024 PDF
+</a>
+
+     
   #       Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
 
   #       I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
