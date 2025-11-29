@@ -51,15 +51,15 @@ education:
   - area: MD/MS
     institution: New York Grossman School of Medicine
     icon: ""
-    date_start: 2017
-    date_end: 2022
+    date_start: 2017-08-01
+    date_end: 2022-05-01
     summary: |
       Masters thesis on predicting urinary tract infection risk.
   - area: BS Biological Engineering
     institution: Cornell University
     icon: ""
-    date_start: 2012
-    date_end: 2016
+    date_start: 2012-08-01
+    date_end: 2016-01-01
     summary: |
       Concentration in Biomedical Engineering.
 
