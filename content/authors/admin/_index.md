@@ -42,7 +42,7 @@ profiles:
   #   url: 
 
 interests:
-  - Radiology
+  - Neuroradiology
   - Computer Vision
   - Baseball
   - Board Games
