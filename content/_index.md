@@ -33,7 +33,12 @@ sections:
     content:
       title: 'Posters'
       text: |-
-        <a href="/uploads/rsna2024soft.pdf" target="_blank">View RSNA 2024 PDF</a>
+        <a href="/uploads/rsna2024soft.pdf" target="_blank">RSNA 2024 Educational Exhibit: CT Findings overlooked on Soft Tissue Windows</a>
+        
+        <a href="/upload/asnr2025dvs.pdf" target="_blank">ASNR 2025 Educational Exhibit: Anatomical Variants of the Dural Venous Sinus</a>
+        
+
+
 
   #       Please reach out to collaborate 😃
 
