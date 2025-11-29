@@ -23,29 +23,23 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: Radiology resident
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 
-    label: E-mail Me
-  - icon: brands/x
-    url: 
   - icon: brands/github
-    url: 
-  - icon: brands/linkedin
-    url: 
+    url: "https://github.com/garrett-yoon"
+  # - icon: brands/linkedin
+  #   url: 
   - icon: academicons/google-scholar
-    url: 
-  - icon: academicons/orcid
-    url: 
+    url: "https://scholar.google.com/citations?user=-138fAEAAAAJ&hl=en"
+  # - icon: academicons/orcid
+  #   url: 
 
 interests:
   - Large Language Models
@@ -168,4 +162,4 @@ awards:
     summary: |
       Recognized for contributions to scaling laws in deep learning.
 ---
-Radiology resident.
+Radiologist-in-training.
