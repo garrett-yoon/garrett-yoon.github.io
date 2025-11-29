@@ -29,9 +29,9 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
-  - block: markdown
-    content:
-      title: 'Posters'
+  # - block: markdown
+  #   content:
+  #     title: 'Posters'
       # subtitle: ''
         # <a href="/uploads/rsna2024soft.pdf" target="_blank">RSNA Soft Tissue 2024 Educational Exhibit</a>
 
