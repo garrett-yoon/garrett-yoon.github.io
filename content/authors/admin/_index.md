@@ -87,7 +87,7 @@ education:
 
 work:
   - position: Radiology Resident
-    company_name: Rutgers New Jersey City School
+    company_name: Rutgers New Jersey Medical School
     # company_url: 'https://ai.meta.com/'
     # icon: ''
     date_start: 2023-06-01
@@ -110,11 +110,11 @@ skills:
     items:
       - name: Python and Website Design
         description: ''
-        percent: 95
+        percent: 100
         icon: code-bracket
       - name: R Studio
         description: ''
-        percent: 95
+        percent: 100
         icon: code-bracket
       # - name: Machine Learning
       #   description: ''
@@ -130,10 +130,10 @@ skills:
     items:
       - name: Cooking
         description: ''
-        percent: 80
+        percent: 100
       - name: Video Games
         description: 'RPGs, Roguelikes'
-        percent: 80
+        percent: 100
 #         icon: person-simple-walk
 #       - name: Building Custom PCs
 #         description: ''
